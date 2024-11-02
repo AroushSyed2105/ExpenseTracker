@@ -24,3 +24,7 @@ Displays the current total of all expenses.
 
 The app checks the cumulative expense total against the monthly budget and displays a warning message if the budget is exceeded.
 A label at the bottom of the main page shows the remaining budget or an over-budget warning.
+
+## Dependencies
+JavaFX: Used for the graphical user interface.
+Java SDK: Required to compile and run the program.
